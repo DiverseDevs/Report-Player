@@ -1,8 +1,7 @@
-name: Report Player
-version: 1.4
-main: me.Coderforlife.Report.Main
+name: CoreReports
+version: 1.0
+main: me.crazethedev.main.Main
 softdepend: [Notifications]
-website: http://dev.bukkit.org/server-mods/reprot-player
 
 commands:
     report:
